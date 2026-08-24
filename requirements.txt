@@ -1,0 +1,12 @@
+langgraph
+langchain
+langchain-core
+langchain-groq
+langchain_community
+langchain-google-genai
+faiss-cpu
+pypdf
+duckduckgo-search
+ddgs
+streamlit
+python-dotenv
