@@ -2,6 +2,8 @@ langgraph
 langchain
 langchain-core
 langchain-groq
+langchain-openai
+openai
 langchain_community
 langchain-google-genai
 faiss-cpu

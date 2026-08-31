@@ -9,68 +9,105 @@ VIVEK KUMAR PANDIT - PROFESSIONAL PORTFOLIO & KNOWLEDGE BASE
 - Location: Mumbai, Maharashtra, India
 - LinkedIn Profile: https://www.linkedin.com/in/vivek-pandit-368b012a7/
 - GitHub Profile: https://github.com/Vivek-1499
-- Role / Specialization: Software Engineer | Full-Stack & AI Systems Developer
-- Education: B.Tech in Information Technology from KJ Somaiya College of Engineering, Vidyavihar, Mumbai (2022 - 2026), GPA: 8.75/10.
-- Relevant Coursework: Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks, AI/ML.
+- Current Status: Open to Work / Seeking full-time & internship opportunities
+- Target Roles: Software Development Engineer (SDE), Backend Engineer, Full-Stack Developer, Mobile (React Native) Developer, Junior AI/LLM Engineer.
 
 2. PROFESSIONAL SUMMARY:
-B.Tech IT student (Class of 2026) with hands-on experience building full-stack systems, mobile apps, REST APIs, real-time services, and database-driven applications across two rigorous internships and multiple production-style projects. Proficient in JavaScript/Node.js, Java, Python, and SQL. Seeking entry-level SDE, Backend, Full-Stack roles.
+Fresh graduate (Class of 2026) with highly impactful, production-grade engineering experience gained across rigorous software engineering internships and complex production-style systems. Hands-on expertise building scalable full-stack applications, real-time WebRTC peer-to-peer streaming platforms, mobile apps with React Native, high-performance REST APIs, and database-driven data warehouses. Proficient in JavaScript/Node.js, Java, Python, SQL, and modern AI/LLM agentic frameworks (LangChain, LangGraph). Seeking entry-level SDE, Backend, Full-Stack, or AI/LLM Engineer roles (open to on-site in major tech hubs as well as remote opportunities).
 
-3. TECHNICAL SKILLS:
-- AI & LLM Engineering: LangChain, LangGraph, RAG (Retrieval-Augmented Generation), Agentic RAG, Self-RAG, LCEL (LangChain Expression Language), FAISS Vector Search, LLM Tool Calling, Streamlit, Groq API, Google Gemini API.
-- Programming Languages: JavaScript (ES6+), Java, Python, SQL, HTML5, CSS3.
+3. EDUCATION & ACADEMIC BACKGROUND:
+- Degree: Bachelor of Technology (B.Tech) in Information Technology
+- College / University: KJ Somaiya College of Engineering (K. J. Somaiya), Vidyavihar, Mumbai
+- Duration: 2022 – 2026 (Class of 2026)
+- Academic Performance / GPA: 8.75 / 10 CGPA
+- Relevant Coursework: Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Operating Systems, Database Management Systems (DBMS), Computer Networks, Artificial Intelligence & Machine Learning (AI/ML), System Design.
+
+4. WORK EXPERIENCE & INTERNSHIPS:
+Vivek is a fresh graduate (Class of 2026). He does not have full-time corporate work experience as of now, but has accumulated extensive practical, production-level industry experience through three rigorous software engineering internships:
+
+A. Full-Stack Developer Intern | Mehery Soccom Pvt. Ltd. (Jan 2026 – Jun 2026)
+- Role: Full-Stack Developer Intern
+- Company: Mehery Soccom Pvt. Ltd.
+- Key Contributions & Architecture:
+  * Designed and engineered a web-based peer-to-peer (P2P) video-calling platform using Vue.js (Composition API) and Node.js with real-time screen sharing and screen recording capabilities.
+  * Integrated WebRTC with STUN/TURN server fallback and a custom signaling/ICE negotiation service to reliably bypass NAT firewalls and handle network transitions.
+  * Supported reliable real-time media streams across 10+ concurrent peers with sub-second connection setup and automatic reconnection on network drops.
+  * Optimized Vue Composition API reactive state for live call sessions, reducing unnecessary UI re-renders by ~35% and improving video frame-rate consistency under load.
+- Tech Stack: Vue.js (Composition API), Node.js, WebRTC, Socket.io, STUN/TURN, JavaScript.
+
+B. Software Engineer Intern | Common Wealth (Jan 2025 – May 2025)
+- Role: Software Engineer Intern
+- Company: Common Wealth
+- Key Contributions & Architecture:
+  * Contributed to the Government Performance Management System (GPMS), a high-traffic public-sector platform serving thousands of users, collaborating within a 6-engineer Agile/Scrum team.
+  * Built and shipped 15+ reusable, accessible React components with shared design tokens, reducing per-feature UI development cycle time by ~30%.
+  * Led Git branching convention adoption (feature/fix/release strategy), cutting PR review turnaround from 48 hours to under 12 hours.
+- Tech Stack: React.js, JavaScript, Agile/Scrum, Git/GitHub, Design Tokens, Component Architecture.
+
+C. Frontend Developer Intern | MeshCraft (Aug 2024 – Sep 2024)
+- Role: Frontend Developer Intern
+- Company: MeshCraft
+- Key Contributions & Architecture:
+  * Produced 10+ WCAG 2.1-compliant Figma design prototypes covering complete end-to-end user journeys; this accessibility-first design methodology reduced QA remediation cycles by ~25% during engineering handoff.
+  * Partnered directly with frontend engineers to translate Figma specifications into clean production components, compressing design-to-code iteration from 3 rounds to 1 for 80% of delivered features.
+- Tech Stack: Figma, UI/UX Design, WCAG 2.1 Accessibility, React/HTML/CSS handoff.
+
+5. TECHNICAL SKILLS:
+- AI & LLM Engineering: LangChain, LangGraph, Agentic RAG, Self-RAG, Retrieval-Augmented Generation, FAISS Vector Search, LLM Tool Calling, Multi-LLM Cascading/Fallbacks, LCEL, Streamlit, Groq API, DeepSeek API, Google Gemini API, OpenAI API.
+- Programming Languages: JavaScript (ES6+), TypeScript, Java, Python, SQL, HTML5, CSS3.
 - Mobile & Frontend: React Native, React Navigation, React.js, Next.js 14, Vue.js (Composition API), Tailwind CSS, Figma.
 - Backend & Real-Time: Node.js, Express.js, REST APIs, WebRTC, WebSockets (Socket.io), JWT Authentication.
-- Data & Databases: MySQL, MongoDB, PostgreSQL, Prisma ORM, Pandas, NumPy, scikit-learn.
+- Data & Databases: MySQL 8.0, MongoDB, PostgreSQL, Supabase, Prisma ORM, Pandas, NumPy, scikit-learn.
 - DevOps, Tools & Cloud: Git, GitHub, Docker, Vercel, Postman, Clerk Auth, Arcjet, Inngest.
-- Core Concepts: System Design, OOP, Component Architecture, Medallion Architecture (ETL), Agile/Scrum.
+- Core Engineering Concepts: System Design, Object-Oriented Programming (OOP), Component Architecture, Medallion Architecture (ETL - Bronze/Silver/Gold), Agile/Scrum.
 
-4. INTERNSHIPS:
-A. Full-Stack Developer Intern | Mehery Soccom Pvt. Ltd. (Jan 2026 - Jun 2026)
-- Architected a production P2P video-calling platform (Vue.js + Node.js) integrating WebRTC with STUN server fallback and a custom signaling/ICE negotiation service.
-- Supported reliable real-time media streams across 10+ concurrent peers with sub-second connection setup and automatic reconnection on network changes.
-- Optimized Vue Composition API reactive state for live call sessions, reducing unnecessary re-renders by ~35% and improving video frame-rate consistency under load.
-
-B. Software Engineer Intern | Common Wealth (Jan 2025 - May 2025)
-- Contributed to the Government Performance Management System (GPMS), a public-sector platform serving thousands of users, as part of a 6-engineer Agile/Scrum team.
-- Built and shipped 15+ reusable React components with shared design tokens, reducing per-feature UI development time by ~30%.
-- Led Git branching convention adoption (feature/fix/release strategy), cutting PR review turnaround from 48 hrs to under 12 hrs.
-
-C. Frontend Developer Intern | MeshCraft (Aug 2024 - Sep 2024)
-- Produced 10+ WCAG 2.1-compliant Figma prototypes covering full user journeys; this accessibility-first approach reduced QA remediation cycles by ~25% at engineering handoff.
-- Partnered with frontend engineers to translate specs into production components, compressing design-to-code iteration from 3 rounds to 1 for 80% of delivered features.
-
-5. FEATURED PROJECTS:
-A. EducationConnect - Mobile Educational Platform (2025)
-- Links: Code available on GitHub (https://github.com/Vivek-1499)
+6. FEATURED PROJECTS:
+A. EducationConnect – Mobile Educational Platform (2025)
+- Purpose: Cross-platform mobile app for educational content delivery and role-based learning workflows.
+- Architecture & Tech: Component-based architecture using React Native, React Navigation for modular layout trees, local state management for auth token persistence and dynamic asset rendering.
 - Tech Stack: React Native, JavaScript, React Navigation, Component Architecture.
-- Highlights: Engineered a cross-platform educational app with separate role-based modular layouts. Managed complex navigation trees and local state handling for persisting auth tokens and dynamic API assets.
+- Repository: https://github.com/Vivek-1499
 
 B. Interactive AI Portfolio Agent (2026)
-- Tech Stack: LangGraph, LangChain, Groq, FAISS Vector Search, Streamlit.
-- Highlights: Designed a stateful, cyclical multi-agent graph with self-correcting RAG (Self-RAG). Implemented real-time query routing, document relevance grading, live web fallback, and Streamlit execution tracing.
+- Purpose: Intelligent multi-agent portfolio Agent with self-correcting RAG and multi-LLM fallback.
+- Architecture: Stateful cyclical graph via LangGraph, semantic retrieval via FAISS and Google Embeddings, Self-RAG relevance grading, multi-LLM cascading (Groq -> DeepSeek -> OpenAI -> Gemini), and live Streamlit execution tracing.
+- Tech Stack: LangGraph, LangChain, Groq, DeepSeek, OpenAI, Gemini, FAISS, Streamlit, Python.
+- Repository: https://github.com/Vivek-1499
 
-C. Saveior - AI-Powered Finance Tracker (2025)
-- Links: Code available on GitHub (https://github.com/Vivek-1499)
+C. Saveior – AI-Powered Finance Tracker (2025)
+- Purpose: Intelligent financial management and expense tracking with automated receipt scanning.
+- Architecture: Next.js 14 full-stack app with Prisma ORM and PostgreSQL/Supabase. Automated receipt OCR and categorization via Google Gemini Vision API, Arcjet security/bot protection, and Inngest for event-driven automated monthly report scheduling.
 - Tech Stack: Next.js 14, Prisma, PostgreSQL, Supabase, Google Gemini API, Arcjet, Inngest, Clerk Auth, Vercel.
-- Highlights: Built an app auto-extracting receipt data via Gemini Vision API. Integrated Arcjet (bot detection) and Inngest (event-driven scheduling) for automated monthly email reports.
+- Repository: https://github.com/Vivek-1499
 
-D. SoMo - Full-Stack Social Media Platform (2025)
-- Links: Code available on GitHub (https://github.com/Vivek-1499)
+D. SoMo – Full-Stack Real-Time Social Media Platform (2025)
+- Purpose: Full-stack real-time social networking platform.
+- Architecture: Front-end built with React; Back-end built with Node.js & Express; Real-time messaging and notification engine using Socket.io (sub-100ms latency); JWT authentication; Cloudinary for media storage and transformation; deployed on Vercel. Engineered a custom "Silent Follow" backend data model.
 - Tech Stack: React, Node.js, Express, MongoDB, Socket.io, JWT, Cloudinary, Vercel.
-- Highlights: Designed a MERN social platform end-to-end with 10+ features. Implemented real-time event delivery via Socket.io with sub-100ms latency and engineered a custom "Silent Follow" backend data model.
+- Repository: https://github.com/Vivek-1499
 
 E. Data Warehouse and Analytics Project (2026)
-- Links: Code available on GitHub (https://github.com/Vivek-1499)
-- Tech Stack: MySQL 8.0, SQL, Stored Procedures, ETL, Star Schema, Medallion Architecture.
-- Highlights: Designed an end-to-end data warehouse consolidating ERP/CRM sales data into a unified star-schema using Bronze, Silver, and Gold ETL layers.
+- Purpose: End-to-end data warehouse consolidating disparate ERP and CRM sales data for executive business intelligence.
+- Architecture: Medallion Architecture (Bronze -> Silver -> Gold ETL pipeline) with dimensional star-schema design for analytical queries and reporting.
+- Tech Stack: MySQL 8.0, SQL, Stored Procedures, Custom ETL Scripts, Star Schema, Medallion Architecture.
+- Repository: https://github.com/Vivek-1499
 
-6. CERTIFICATIONS & HACKATHONS:
-- Hackathon: Participant, Smart India Hackathon 2023 – Delivered a working AI traffic management prototype (YOLOv8 + OpenCV) within a 36-hour timeline.
-- Certifications: Java Programming (Duke Univ.), Version Control (Meta), Visualization for Data Analysis with Power BI (Microsoft), Google UX Design Certificate, Blockchain Basics (Univ. at Buffalo).
+7. CERTIFICATIONS & HACKATHONS:
+- Smart India Hackathon 2023: Finalist/Participant – Engineered a working AI computer vision traffic management prototype (YOLOv8 + OpenCV) within a 36-hour sprint.
+- Java Programming: Duke University (Coursera)
+- Version Control with Git: Meta
+- Visualization for Data Analysis with Power BI: Microsoft
+- Google UX Design Certificate: Google
+- Blockchain Basics: University at Buffalo
 
-7. RECRUITER & HIRING FAQS:
-- How much work experience does Vivek have? Vivek is a fresh graduate (Class of 2026). He does not have full-time work experience yet, but he has gained highly impactful, professional experience through two rigorous Software Engineering internships.
-- What roles is Vivek looking for? Entry-level SDE, Backend Engineer, Full-Stack Developer, Mobile (React Native) Developer, or Junior AI/LLM Engineer roles.
-- Where can recruiters find his code and profile? Recruiters can explore his complete codebase via his GitHub profile (https://github.com/Vivek-1499) and professional network via LinkedIn (https://www.linkedin.com/in/vivek-pandit-368b012a7/).
-- Is Vivek open to relocation? Yes, open to on-site roles in major tech hubs and remote opportunities.
+8. RECRUITER & HIRING FAQS:
+- Q: How much work experience does Vivek have?
+  A: Vivek is a fresh graduate (Class of 2026). He does not have full-time corporate work experience as of now, but he has gained extensive practical engineering experience through three rigorous software engineering internships (Full-Stack Developer Intern at Mehery Soccom Pvt. Ltd., Software Engineer Intern at Common Wealth, and Frontend Developer Intern at MeshCraft).
+- Q: What is Vivek's educational background and GPA?
+  A: B.Tech in Information Technology from KJ Somaiya College of Engineering, Vidyavihar, Mumbai (Class of 2026) with an 8.75 / 10 CGPA.
+- Q: What roles is Vivek actively looking for?
+  A: Entry-level Software Development Engineer (SDE), Backend Engineer, Full-Stack Developer, Mobile (React Native) Developer, or Junior AI/LLM Engineer roles.
+- Q: Is Vivek open to relocation or remote roles?
+  A: Yes, Vivek is open to on-site roles across major tech hubs as well as hybrid and remote opportunities.
+- Q: Where can I review his code and profile?
+  A: GitHub: https://github.com/Vivek-1499 | LinkedIn: https://www.linkedin.com/in/vivek-pandit-368b012a7/
